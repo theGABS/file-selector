@@ -1,5 +1,5 @@
 {
-  "name": "file-selector",
+  "name": "file-selector-for-electron",
   "version": "0.1.11",
   "description": "Convert DataTransfer object to a list of File objects",
   "main": "./dist/index.js",
